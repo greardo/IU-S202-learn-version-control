@@ -28,5 +28,11 @@
     "scientificName": "Macropus rufus",
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
+  },
+{
+    "commonName": "Bearded Dragon",
+    "scientificName": "Pogona",
+    "habitat": "the arid areas of Australia",
+    "description": "lizard with a spiny beard that puffs up when it feels threatened or excited."
   }
 ]
