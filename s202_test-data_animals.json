@@ -29,10 +29,16 @@
     "habitat": "Australian deserts and open grasslands",
     "description": "The largest marsupial, using powerful hind legs for hopping and a strong tail for balance."
   },
-{
+  {
     "commonName": "Bearded Dragon",
     "scientificName": "Pogona",
     "habitat": "the arid areas of Australia",
-    "description": "lizard with a spiny beard that puffs up when it feels threatened or excited."
+    "description": "A type of lizard with a spiny beard that puffs up when it feels threatened."
+  },
+  {
+    "commonName": "Black Widow",
+    "scientificName": "Latrodectus",
+    "habitat": "the warm regions of the world",
+    "description": "A venomous type of spider with a red hourglass marking on its abdomen."
   }
 ]
